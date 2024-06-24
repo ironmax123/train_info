@@ -1,6 +1,10 @@
 # you_train_info
 
-A new Flutter project.
+Flutter project.
+2024/6/24
+・通知の動作にバグがある
+・Osaka Metoroの❗️表示にバグの可能性あり
+・一部鉄道会社でテストできていない
 
 ## Getting Started
 
